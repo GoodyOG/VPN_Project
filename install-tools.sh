@@ -14,7 +14,7 @@ LIGHT='\033[0;37m'
 MYIP=$(wget -qO- ipinfo.io/ip);
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/owl64/VPN_Project/master/ssh"
+akbarvpn="raw.githubusercontent.com/GoodyOG/VPN_Project/master/ssh"
 
 #
 cd
